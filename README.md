@@ -1,5 +1,4 @@
 
-````markdown
 # 🚀 Advanced Image Processing Toolkit
 
 This repository provides a powerful Python script for batch-processing images with various transformations like blurring, clouding, brightness enhancement, and noise addition. It efficiently reads a list of image paths from a text file and applies augmentations in parallel using multithreading to accelerate the workflow.
